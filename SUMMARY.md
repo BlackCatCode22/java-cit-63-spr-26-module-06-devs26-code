@@ -24,7 +24,7 @@ zooPopulation.txt is written from ZookeeperChallenge.java that organizes animals
 
 3. **genUniqueID** utilizes **getSpeciesID** function. The count variable initializes and increments a new ID, if the existing ID of the species already exists. The format will always be "00" instead of "0".
 
-4. **getBirthDay** gets the animal's age, season of the month, and arrivalDate. The birthMonth is lowercased in case the season is capitalized in the arrivingAnimals.txt. The value is returned by doing a subtraction problem.
+4. **genBirthDay** gets the animal's age, season of the month, and arrivalDate. The birthMonth is lowercased in case the season is capitalized in the arrivingAnimals.txt. The value is returned by doing a subtraction problem.
 
 5. **getSpeciesID** is why **loadNames** and **loadDetails** lowercases the animal names. It abbreviates the animal names into the first two characters of the species. The first character of the abbreviation is always capitalized.
 
