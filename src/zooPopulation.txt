@@ -1,0 +1,25 @@
+=== ZOO POPULATION REPORT ===
+Bear Habitat:
+  Be01; Yogi; birth date: 2019-03-21; brown color; male; 320 pounds; from Alaska Zoo, Alaska; arrived 2026-04-07
+  Be02; Smokey; birth date: 2001-03-21; black color; female; 425 pounds; from Woodland park Zoo, Washington; arrived 2026-04-07
+  Be03; Paddington; birth date: 2022-09-21; black color; female; 355 pounds; from Woodland park Zoo, Washington; arrived 2026-04-07
+  Be04; Lippy; birth date: 2022-03-21; brown color; male; 405 pounds; from Alaska Zoo, Alaska; arrived 2026-04-07
+
+Hyena Habitat:
+  Hy01; Shenzi; birth date: 2022-03-21; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived 2026-04-07
+  Hy02; Banzai; birth date: 2014-09-21; brown color; male; 150 pounds; from Friguia Park, Tunisia; arrived 2026-04-07
+  Hy03; Ed; birth date: 2022-03-21; black color; male; 120 pounds; from Friguia Park, Tunisia; arrived 2026-04-07
+  Hy04; Zig; birth date: 2018-03-21; black and tan striped color; female; 105 pounds; from Friguia Park, Tunisia; arrived 2026-04-07
+
+Lion Habitat:
+  Li01; Scar; birth date: 2020-03-21; tan color; female; 300 pounds; from Zanzibar, Tanzania; arrived 2026-04-07
+  Li02; Mufasa; birth date: 2014-12-21; dark tan color; female; 375 pounds; from KopeLion, Tanzania; arrived 2026-04-07
+  Li03; Simba; birth date: 2004-09-21; golden color; male; 450 pounds; from Zanzibar, Tanzania; arrived 2026-04-07
+  Li04; Kiara; birth date: 2022-03-21; tan and brown color; female; 275 pounds; from KopeLion, Tanzania; arrived 2026-04-07
+
+Tiger Habitat:
+  Ti01; Tony; birth date: 2024-03-21; gold and tan stripes color; male; 270 pounds; from Dhaka, Bangladesh; arrived 2026-04-07
+  Ti02; Tigger; birth date: 2022-03-21; black stripes color; female; 400 pounds; from Dhaka, Bangladesh; arrived 2026-04-07
+  Ti03; Amber; birth date: 2008-09-21; gold and tan color; male; 300 pounds; from Bardia, Nepal; arrived 2026-04-07
+  Ti04; Cosimia; birth date: 2023-03-21; black stripes color; female; 285 pounds; from Bardia, Nepal; arrived 2026-04-07
+
